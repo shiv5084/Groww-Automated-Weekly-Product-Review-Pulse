@@ -1,0 +1,91 @@
+# Theme definitions for Groww Weekly Product Review Pulse
+# These are the 5 default themes used by the LLM Theme Grouping Engine (Phase 2).
+# The LLM is instructed to classify each review into exactly one of these themes.
+# Adjust keywords and descriptions to tune classification accuracy.
+
+themes:
+  - id: onboarding
+    name: Onboarding
+    description: >
+      Reviews related to the initial sign-up experience, account creation,
+      first-time user flow, app download, and first impressions.
+    keywords:
+      - sign up
+      - register
+      - new user
+      - first time
+      - getting started
+      - account creation
+      - welcome
+      - tutorial
+      - onboarding
+
+  - id: kyc
+    name: KYC
+    description: >
+      Reviews related to Know Your Customer verification, PAN card submission,
+      Aadhaar verification, video KYC, document upload, and identity verification delays.
+    keywords:
+      - kyc
+      - pan
+      - aadhaar
+      - verification
+      - identity
+      - document
+      - video kyc
+      - rejected
+      - pending verification
+
+  - id: payments
+    name: Payments
+    description: >
+      Reviews related to adding money, payment failures, UPI issues, net banking,
+      transaction errors, money deducted but order not placed, and refund delays.
+    keywords:
+      - payment
+      - add money
+      - upi
+      - net banking
+      - transaction failed
+      - deducted
+      - refund
+      - money not credited
+      - payment gateway
+
+  - id: statements
+    name: Statements
+    description: >
+      Reviews related to portfolio statements, tax reports, P&L summaries,
+      capital gains statements, PDF downloads, and account history visibility.
+    keywords:
+      - statement
+      - portfolio
+      - report
+      - tax
+      - capital gains
+      - p&l
+      - profit and loss
+      - download
+      - history
+      - returns
+
+  - id: withdrawals
+    name: Withdrawals
+    description: >
+      Reviews related to withdrawing funds, redemption of mutual funds,
+      withdrawal delays, money stuck, bank transfer issues, and payout timelines.
+    keywords:
+      - withdrawal
+      - withdraw
+      - redeem
+      - redemption
+      - payout
+      - money stuck
+      - bank transfer
+      - pending withdrawal
+      - funds not received
+
+settings:
+  max_themes: 5
+  fallback_theme: onboarding  # Default theme if LLM cannot classify a review
+  min_reviews_per_theme: 1    # Themes with fewer reviews are merged into the closest theme

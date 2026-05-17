@@ -1,0 +1,31 @@
+rating,title,review_text,date,source
+5,Great app for investing,I have been using Groww for over a year now. The interface is clean and easy to navigate. Mutual fund investments are seamless.,2026-04-28,play_store
+4,Good but KYC is slow,The app works well overall but the KYC verification took almost 3 days. Would appreciate faster processing.,2026-04-27,play_store
+2,Withdrawal issues,My withdrawal has been pending for 5 days. Customer support is not responding. Very frustrating experience.,2026-04-26,play_store
+5,Best investment app,Groww has made investing so simple. I started my SIP journey here and the experience has been fantastic.,2026-04-25,play_store
+3,Statements are confusing,The portfolio statement is hard to read. I cannot figure out my actual returns vs invested amount easily.,2026-04-24,play_store
+1,App crashes during payment,Every time I try to add money the app crashes. This has happened 4 times this week. Please fix this bug.,2026-04-23,play_store
+5,Smooth onboarding,Signed up and completed KYC in under 10 minutes. Very smooth process compared to other apps I have tried.,2026-04-22,play_store
+4,Nice UI but slow sometimes,The design is really good and intuitive. However the app becomes slow when loading portfolio data on weekdays.,2026-04-21,play_store
+2,KYC rejected without reason,My KYC was rejected but no clear reason was given. I had to resubmit everything. Needs better communication.,2026-04-20,play_store
+5,Excellent for beginners,As a first-time investor Groww made everything easy to understand. The educational content is very helpful.,2026-04-19,play_store
+3,Payment gateway issues,Sometimes payments fail and money gets deducted but the transaction does not go through. Refund takes too long.,2026-04-18,play_store
+4,Good app overall,Works well for daily use. Would love a dark mode option and better notification controls.,2026-04-17,play_store
+1,Cannot withdraw my money,I have been trying to withdraw for a week. The button just spins and nothing happens. This is unacceptable.,2026-04-16,play_store
+5,Love the simplicity,Everything is where you expect it to be. Buying and selling stocks is very straightforward.,2026-04-15,play_store
+2,Onboarding stuck at PAN verification,The PAN verification step keeps failing even though my details are correct. Stuck for 2 days now.,2026-04-14,play_store
+5,Reliable and fast,Transactions execute quickly and the app rarely has downtime. Very dependable for daily trading.,2026-04-13,app_store
+4,Clean design,The app looks great and is easy to use. The home screen gives a good overview of my portfolio.,2026-04-12,app_store
+3,Statement download broken,The PDF statement download feature does not work on iOS. It just shows a blank page every time.,2026-04-11,app_store
+2,Slow customer support,Raised a ticket 4 days ago about a failed payment. Still no response. Support needs major improvement.,2026-04-10,app_store
+5,Best mutual fund app,I have tried several investment apps and Groww is by far the easiest to use for mutual funds.,2026-04-09,app_store
+1,Money stuck after payment failure,Paid for a mutual fund but the order failed. Money was deducted and has not been refunded after 6 days.,2026-04-08,app_store
+4,Good for long term investing,Works perfectly for SIPs and long-term investments. The goal-based investing feature is a nice touch.,2026-04-07,app_store
+3,KYC process needs improvement,The video KYC kept disconnecting. Had to attempt it three times before it finally worked.,2026-04-06,app_store
+5,Highly recommend,Groww has changed how I think about investing. Simple, transparent, and reliable. Highly recommend to everyone.,2026-04-05,app_store
+2,Withdrawal takes too long,Withdrawals should be instant or at most same day. Waiting 3 to 5 business days feels outdated.,2026-04-04,app_store
+4,Mostly great,The app does what it promises. Minor bugs here and there but nothing that stops me from using it daily.,2026-04-03,app_store
+1,Cannot login after update,After the latest update I cannot log in. The OTP screen freezes. Please roll back or fix urgently.,2026-04-02,app_store
+5,Perfect for new investors,The guided onboarding and risk assessment made me feel confident starting my investment journey.,2026-04-01,app_store
+3,Portfolio view needs work,Would love to see a breakdown of gains by asset class. The current view is too aggregated.,2026-03-31,app_store
+4,Solid app with minor issues,Overall a solid investment platform. The occasional slowness during market hours is the only complaint.,2026-03-30,app_store

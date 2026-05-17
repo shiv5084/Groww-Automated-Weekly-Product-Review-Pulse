@@ -1,0 +1,20 @@
+{
+  "_comment": "Deployed CustomGoogle MCP server (Railway). OAuth lives on the server — see shiv5084/MCP-SERVER.",
+  "mcpServers": {
+    "groww-pulse": {
+      "url": "${MCP_SERVER_URL}",
+      "description": "https://mcp-server-production-5084.up.railway.app"
+    }
+  },
+  "endpoints": {
+    "health": "GET /",
+    "list_tools": "GET /tools",
+    "append_to_doc": "POST /append_to_doc",
+    "create_email_draft": "POST /create_email_draft"
+  },
+  "settings": {
+    "timeout_seconds": 30,
+    "max_retries": 3,
+    "retry_backoff_seconds": 2
+  }
+}

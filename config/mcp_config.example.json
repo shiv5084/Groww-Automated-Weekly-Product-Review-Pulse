@@ -1,0 +1,17 @@
+{
+  "_comment": "Copy values to .env. MCP server repo: https://github.com/shiv5084/MCP-SERVER",
+  "mcpServers": {
+    "groww-pulse": {
+      "url": "https://mcp-server-production-5084.up.railway.app"
+    }
+  },
+  "endpoints": {
+    "append_to_doc": "POST /append_to_doc",
+    "create_email_draft": "POST /create_email_draft"
+  },
+  "settings": {
+    "timeout_seconds": 30,
+    "max_retries": 3,
+    "retry_backoff_seconds": 2
+  }
+}
