@@ -48,7 +48,7 @@ export default function ChartsDashboard({
           Live Sentiment Stream
         </h2>
         <div className="flex-1 min-h-[200px]">
-          <ResponsiveContainer width="100%" height="100%">
+          <ResponsiveContainer width="100%" height="100%" minWidth={1} minHeight={1}>
             <LineChart data={trendData} margin={{ top: 5, right: 20, bottom: 5, left: -20 }}>
               <CartesianGrid strokeDasharray="3 3" stroke="rgba(255,255,255,0.1)" vertical={false} />
               <XAxis dataKey="time" stroke="rgba(255,255,255,0.5)" fontSize={12} tickLine={false} axisLine={false} />
@@ -72,10 +72,10 @@ export default function ChartsDashboard({
           Active Theme Volume
         </h2>
         <div className="flex-1 min-h-[200px]">
-          <ResponsiveContainer width="100%" height="100%">
-            <BarChart data={themeData} margin={{ top: 5, right: 20, bottom: 5, left: -20 }}>
+          <ResponsiveContainer width="100%" height="100%" minWidth={1} minHeight={1}>
+            <BarChart data={themeData} margin={{ top: 5, right: 20, bottom: 25, left: -20 }}>
               <CartesianGrid strokeDasharray="3 3" stroke="rgba(255,255,255,0.1)" vertical={false} />
-              <XAxis dataKey="name" stroke="rgba(255,255,255,0.5)" fontSize={12} tickLine={false} axisLine={false} />
+              <XAxis dataKey="name" stroke="rgba(255,255,255,0.5)" fontSize={10} tickLine={false} axisLine={false} interval={0} angle={-25} textAnchor="end" />
               <YAxis stroke="rgba(255,255,255,0.5)" fontSize={12} tickLine={false} axisLine={false} />
               <Tooltip 
                 cursor={{ fill: 'rgba(255,255,255,0.05)' }}
@@ -93,7 +93,7 @@ export default function ChartsDashboard({
           Top 3 Theme Distribution
         </h2>
         <div className="flex-1 min-h-[200px]">
-          <ResponsiveContainer width="100%" height="100%">
+          <ResponsiveContainer width="100%" height="100%" minWidth={1} minHeight={1}>
             <PieChart>
               <Pie
                 data={top3Themes}

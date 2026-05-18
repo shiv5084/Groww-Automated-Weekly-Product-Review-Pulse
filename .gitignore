@@ -52,10 +52,11 @@ data/cleaned/
 # -----------------------------------------------------------------------------
 # Output files — generated at runtime
 # -----------------------------------------------------------------------------
-output/notes/*.md
+# output/notes/*.md  # Commented out to allow pulse notes to be committed and pushed for Render deployment
 output/logs/*.log
 output/logs/*.txt
 !output/notes/.gitkeep
+!output/notes/*.md
 !output/logs/.gitkeep
 
 # -----------------------------------------------------------------------------
@@ -98,7 +99,11 @@ test-results/
 *.tmp
 *.bak
 
+langgraph_env/
+
 #custom files
 prompt.md
 issue.md
 rule.md
+
+

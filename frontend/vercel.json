@@ -6,7 +6,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://your-render-app.onrender.com/api/:path*"
+      "destination": "https://groww-automated-weekly-product-review.onrender.com/api/:path*"
     }
   ]
 }

@@ -51,15 +51,16 @@ def read_root():
 @app.get("/health")
 def health():
     """Health check for Render monitoring."""
-    return {"status": "alive", "timestamp": os.popen("date /t").read().strip()}
+    from datetime import datetime
+    return {"status": "alive", "timestamp": datetime.utcnow().isoformat()}
 
 @app.get("/latest-report")
 def get_latest_report():
     """Fetch the latest pulse note and theme distribution."""
     notes_dir = PROJECT_ROOT / "output" / "notes"
     
-    # Get latest pulse_*.md
-    md_files = sorted(notes_dir.glob("pulse_*.md"), key=os.path.getmtime, reverse=True)
+    # Get latest pulse_*.md by filename sorting (lexicographical descending)
+    md_files = sorted(notes_dir.glob("pulse_*.md"), reverse=True)
     pulse_md = ""
     if md_files:
         pulse_md = md_files[0].read_text(encoding="utf-8")

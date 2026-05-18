@@ -62,7 +62,7 @@ export default function ThemeCards({ themes }: { themes: Theme[] }) {
                 
                 {/* Mini Sparkline */}
                 <div className="w-20 h-10 opacity-70 group-hover:opacity-100 transition-opacity">
-                  <ResponsiveContainer width="100%" height="100%">
+                  <ResponsiveContainer width="100%" height="100%" minWidth={1} minHeight={1}>
                     <LineChart data={data}>
                       <Line 
                         type="monotone" 

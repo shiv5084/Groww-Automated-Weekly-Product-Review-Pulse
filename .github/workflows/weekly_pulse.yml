@@ -19,10 +19,15 @@ jobs:
   run-pipeline:
     name: Run Weekly Review Pulse
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # Full history not needed for pipeline runs
+          fetch-depth: 1
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -70,6 +75,9 @@ jobs:
           git add output/notes/
           git commit -m "chore: update weekly pulse notes for Render [skip ci]" || echo "No changes to commit"
           git push
+          echo "Pushed updated notes output to repo"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload Pulse Outputs
         if: always()

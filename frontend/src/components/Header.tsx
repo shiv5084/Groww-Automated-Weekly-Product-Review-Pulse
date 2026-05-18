@@ -98,8 +98,8 @@ export default function Header({ isOnline }: { isOnline?: boolean | null }) {
         <div className="flex items-center gap-6">
           {/* Logo & Title */}
           <div className="flex items-center gap-3">
-            <div className="w-8 h-8 rounded bg-primary flex items-center justify-center shadow-[0_0_15px_rgba(0,208,156,0.5)]">
-              <span className="text-black font-bold text-xl">G</span>
+            <div className="w-9 h-9 flex items-center justify-center rounded-full shadow-[0_0_10px_rgba(0,208,156,0.3)]">
+              <img src="/groww_logo.png" alt="Groww Logo" className="w-full h-full object-contain" />
             </div>
             <div>
               <h1 className="text-xl font-bold tracking-tight text-white leading-tight">

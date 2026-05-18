@@ -5,7 +5,7 @@ services:
     region: oregon
     plan: free
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "uvicorn src.phase6_api.app:app --host 0.0.0.0 --port $PORT"
+    startCommand: gunicorn -w 1 -k uvicorn.workers.UvicornWorker --timeout 120 --log-level debug src.phase6_api.app:app --bind 0.0.0.0:$PORT
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0
@@ -16,6 +16,4 @@ services:
       - key: GOOGLE_MASTER_DOC_ID
         sync: false
       - key: PULSE_EMAIL_RECIPIENT
-        sync: false
-      - key: FRONTEND_URL
         sync: false

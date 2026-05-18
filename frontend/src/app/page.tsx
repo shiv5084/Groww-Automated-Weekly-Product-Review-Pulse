@@ -40,14 +40,14 @@ export default function Dashboard() {
       const data = await getLatestReport();
       
       if (data && data.themes) {
-        // Parse backend data to setup initial state
+        // Parse backend data to setup initial state and sort by target_count descending
         const themesArr = Object.values(data.themes).map((t: any) => ({
           theme_name: t.theme_name,
           count: 0, // Start at 0 for simulation
           target_count: t.count || 0, // Target to stop at
           avg_rating: t.avg_rating || 0,
           sentiment: t.sentiment || "neutral",
-        }));
+        })).sort((a, b) => b.target_count - a.target_count);
         
         setLiveThemes(themesArr);
         
@@ -154,7 +154,7 @@ export default function Dashboard() {
   const themeChartData = liveThemes.map(t => ({
     name: t.theme_name,
     volume: t.count
-  })).sort((a,b) => b.volume - a.volume).slice(0, 5);
+  })).sort((a,b) => b.volume - a.volume);
 
   return (
     <main className="min-h-screen flex flex-col bg-[#0d1117] text-[#e6edf3] font-sans selection:bg-primary/30 relative overflow-hidden">
@@ -173,7 +173,7 @@ export default function Dashboard() {
         
         {/* Top Row: Theme Cards Grid */}
         <section>
-          <ThemeCards themes={liveThemes.slice(0, 3)} />
+          <ThemeCards themes={[...liveThemes].sort((a, b) => b.count - a.count || b.target_count - a.target_count).slice(0, 3)} />
         </section>
 
         {/* Middle Row: User Feed & Recommendations */}
