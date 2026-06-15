@@ -2,1251 +2,987 @@
   "onboarding": {
     "theme_id": "onboarding",
     "theme_name": "Onboarding",
-    "count": 158,
-    "avg_rating": 3.45,
+    "count": 134,
+    "avg_rating": 3.85,
     "sentiment": "neutral",
     "reviews": [
       {
-        "text": "nice one and seftiy one",
+        "text": "Good for investing.... thanks Groww",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-07"
+        "date": "2026-06-14"
       },
       {
-        "text": "zdxc xzEzcr Zzzs Xd Rx Rd Seed Eredrrr Rzd KY XS OH3PMnjzdzr wwrzzrrdr,,, zzr, f,ease s xr drxzzdsw sz zszzzzzs de es ssesse",
+        "text": "JC of cm JC ch oi ch in",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-14"
+      },
+      {
+        "text": "kindly update in phone multiple screen option...",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-14"
+      },
+      {
+        "text": "Thank you grow up app",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-14"
+      },
+      {
+        "text": "I want to create history by doing sip and lumsum",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-14"
+      },
+      {
+        "text": "im is a sustainable energy",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-14"
+      },
+      {
+        "text": "Simple and easiest user interface",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-14"
+      },
+      {
+        "text": "very simple and useful for all",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-14"
+      },
+      {
+        "text": "The system is very simple, after that there is no fun in anything else.",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-14"
+      },
+      {
+        "text": "good service and excellent work",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-14"
+      },
+      {
+        "text": "very good app go with it",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "Getting started was quick and completely stress-free.",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "bahut achcha app Hai yah hai na achcha app hai",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "Best broker in the Indian market",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "I'm new on this and I started SIP plus it is worth it and I'm a student",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "good app very easy to use..",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "redeem code app quize and earn",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "It's a great app but still i need one feature in which I can filter only news stock in Intraday screener that will definitely help traders.",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "this is app so good ",
+        "rating": 4.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "it is easy to use",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "So Very Nice  I am very happy to be associated with this broker",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "Easy to use so simple",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "clear Fresh App bliul wealth grow",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "this app is best and this app is very best stock marketing best app",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "Very usefull app for common men to use.",
+        "rating": 4.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "new start is always great here..",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "i like this app I have been using it for 3 years . I will recommend some additional features to be added 1) introduce options of adjusting watchlist as per user preferred where to place before watchlist no.3 or watchlist no 6. 2) while creating alert please add option to add notes of 10 - 15 words or 50 alphabets",
+        "rating": 4.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "nice and multiple use app",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "ok ji thik hai ji",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "good experience. i am very happy ",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "good app & simple U/I for new users",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "kindly provide multi layout chart on groww app",
         "rating": 3.0,
         "source": "play_store",
-        "date": "2026-06-07"
+        "date": "2026-06-12"
       },
       {
-        "text": "love this app. the app is simple & easy to operate",
+        "text": "After using Groww every other broker apps feels hard and confusing to use.",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-07"
+        "date": "2026-06-12"
       },
       {
-        "text": "beginner ke liye best app ",
+        "text": "Best app for investing in Market",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-06"
+        "date": "2026-06-12"
       },
       {
-        "text": "Some features are very much needed, which can make this app perfect : 1. The list of set GTT orders must be provided with sorting options too. 2. When we open a stock page , please indicate on the page itself whether an order is already active for that particular stock , otherwise the user has to search separately from among the orders. 3. There must be more options for sorting out in the watchlists, like according to their weekly high or low and traded volume etc.",
-        "rating": 3.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "grow app good aap bhale mujhe intraday abhi nahi aa raha lekin wait I 'm successful man .",
+        "text": "Met expectations but there is always space for improvement.",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-06"
+        "date": "2026-06-12"
       },
       {
-        "text": "Needs to improve Options trading features.. 1. Hangs when market gets huge txns. 2. Target or Stop Loss handles only Qty of 1755 in Scalper mode... it shud accept Target or Stop Loss for whole Trade Qty in SCALPER mode, GROWW shud itself break the orders in multiples of 1755... I hav lost lakhs due to this glitch.. 3. GROWW shud introduce feature of optiing Auto Set STOP LOSS.. i. e when user sets this feature in settings for OPTION for Auto STOP LOSS.. and shud move down with avg amt",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "good morning sir ji to",
+        "text": "good app for future investment.",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-06"
+        "date": "2026-06-12"
       },
       {
-        "text": "ee number send kar  na ho 4 CT xy",
+        "text": "grow is best app trending and using its to iezze...",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-06"
+        "date": "2026-06-12"
       },
       {
-        "text": "I have deactivated my account how to enable it...",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "it's always go on down fall don even try it ....",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "very good app nice app",
+        "text": "I am not the one who usually give review to a app but this app it totally fantabulous, so easy to understand, even though beginners can easily trade on it, I recommend this app to everyone no matter the person is beginner or pro",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-06"
+        "date": "2026-06-12"
       },
       {
-        "text": "very good app so simple handling and easy method",
+        "text": "We Do Big Welcome Of Groww. We Want More Advance Facility In App",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-06"
+        "date": "2026-06-12"
       },
       {
-        "text": "very cheap app loss your money",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "tanks for update.any update completed within 24hours greate super support",
+        "text": "nice app easy to trade",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-06"
+        "date": "2026-06-12"
       },
       {
-        "text": "Good Experience on this App",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "user friendly best for inverting app",
+        "text": "nice interface save with grow",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-06"
+        "date": "2026-06-12"
       },
       {
-        "text": "this app is very good for investing.",
+        "text": "Excellent app it's very useful for know about share market",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-06"
+        "date": "2026-06-12"
       },
       {
-        "text": ",yvjb: i. khgvvvvhghhhb vedb ho ban ke.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "i created was sip stock used in this groww app.so return is coming like.then future time going to I make intraday with stock.so more help us to my business life.thank you",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "veryyy instresrting aap for biggner",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "the customer care is awesome",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "ya aap bhot acha ha",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "constituents not available,it would be easy to trade in large caps. Try not to bring updates However UI rocks",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "scalpar mode pe limit order lagane ka option dene me kya dikkat hai?",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "groww this app amazing and mutual respect..",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "Earlier, opening Nifty 50/Sensex/sectors showed constituent companies in a much cleaner and more useful way for analysis. The old layout was better for investors. Please bring back the previous sector/index company view.",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "after update there's no option for nifty I am not able to change from sensex to nifty in scalping mode and also before update there's were all 50 company list together in overview now it is not showing it was good experience earlier before update but now can't say the same",
+        "text": "How about adding FnO postions in status bar option, even if screen is minimised. we can check",
         "rating": 2.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-12"
       },
       {
-        "text": "very good app for tradeing ",
+        "text": "very efficient ,that's what groww is.",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-12"
       },
       {
-        "text": "I have some issues in... exit my trade ..I can't exit it...so please ensure the bug",
+        "text": "good but little bit slow",
+        "rating": 4.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "this platform is super good for beginners",
+        "rating": 4.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "worst app in the world",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-12"
       },
       {
-        "text": "is baar ka scalping ka update bahut bekar h",
+        "text": "no support system for customer... very bad service... jb dekho bs ticket raise krte rhehte h... tickets kabhi resolve nhi hotti inse ... ab is comment k reply me bhi ticket no. puch rhe h",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-12"
       },
       {
-        "text": "begginers friendly app I had never seen .best app for begginers ",
+        "text": "bhai mujhe koi trading sikha hu bhai ",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-12"
       },
       {
-        "text": "this is very good app",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": " “Groww ek powerful aur simple investment app hai jahan se koi bhi apni financial journey start kar sakta hai. Chahe mutual funds ho ya stocks, sab kuch easy aur transparent hai. Aaj ka smart decision hi kal ka strong future banata hai. ”",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "coustomer care team is very very rude and irritated to update any things",
+        "text": "big froud they are , don't try this app .",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-12"
       },
       {
-        "text": "groww app is very nice I like you groww",
+        "text": "worst app ... due to install groww app, my phone continuously being hanged in every 5 min.",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "Thank You for Updating AI Search in the App.",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-12"
       },
       {
-        "text": "Good app, much better if us stock and etf r eligible to buy from this",
+        "text": "Why are only five indicators available in the new update version?",
+        "rating": 4.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "jindagi mein kabhi option trading mat karna",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "at least they don't use ai slop to formalise the update",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "his app so cool and trusted",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "share ke liye sabse best aap he grow",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "This app is so easy to use and excellent",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "app not showing volume chart after i added volume indicator",
         "rating": 3.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "now days in option me trade exit ke time dikkat de raha hai",
+        "text": "could u add option to save and view multiple chart set ups.....",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "It's a very good app for investing but for research or fund comparison in a category other apps like indmoney or coin is better as they offer sorting of fund.",
+        "rating": 4.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "Groww is one of the most beginner-friendly Android investment apps I’ve used. The interface is clean, SIP setup for mutual funds is simple, and buying stocks/ETFs is straightforward. Portfolio tracking across investments is convenient, and onboarding is mostly digital. The trade-off is that research tools and advanced trading features are not as deep as specialized trading platforms. For long-term investors and first-time users, it’s an excellent choice.",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "pehle pehele thik thaa....ab 1 ghante k baad lag krta hain",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "customer satisfaction is less because cant able to update",
         "rating": 3.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "The best app for trading  .",
+        "text": "very wrost app ever not seen in my life",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "bekar hai ya app time pa exit nhi hota",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "I Think  Better Any Apps",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "Groww stock, Mu... very good",
+        "text": "WORST APP NO PROFIT AT ALL",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "Groww gives market info one day before which helps in gaining profits.Thanks groww",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "Please add a 2-hour (2H) timeframe option in charts. Many traders use 2H candles for technical analysis, but this timeframe is currently missing in the Groww app. Adding it would greatly improve the charting experience. Thank you.",
+        "text": "good service good support good platform",
         "rating": 4.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "Scalper- Arrow mark is not in the update.",
-        "rating": 2.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "it is the best app to invasmant",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "nice overall service this application",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "charts are misleading and not provide any update even option chain is nit upto mark, definitely not an app for option trading better to look for some professional apps brokers that can provide insight into derivatives ,closing my account",
+        "text": "Fully Froud Bakwas  All Time only losss this aap",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "good app and good skills",
+        "text": "one of the best trading platform",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "components are missing below indices.",
-        "rating": 1.0,
+        "text": "I feel safe & secure while using Groww app for trading.",
+        "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "kab se start karke jyada profit kamaya Ja sakta hai",
+        "text": "Best app for trading, investing , mf",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "if it's possible to open a new window where we can find some research call for swing trading",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "User friendly and elaborate interface",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "please make this for tablet user also beacause it is not align with tablet UI. Also when i draw something on chart in a device not showing in another device means your app is not synced.",
         "rating": 4.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "new update on F&o pathetic difficult to buy and very confusing day by day app is going pathetic",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "bahut badhiya aap h me ek naya invester hu mujhe ye app bahut kuch sikhata h",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "mg namaste  namaste I will suit you so much",
+        "text": "easy to understand , good app",
         "rating": 4.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "it's very smooth app for biginers",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "please enable dual account login for family usage like whatsapp",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "in my mobile I can't see nifty 50 in top. the box was cut . fix ui problem",
-        "rating": 2.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "Helloo... groww team please add auto stoploss in scalper terminal for better trading. if possible",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "worst customer support very bad ,really very bad they don't communicate they do not respond just waste your time and energy",
+        "text": "A bad app that is not worth writing about, a waste of money, time, and effort.",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "Customer support is the worst. Does not help",
+        "text": "please add stochastic indicator, which is very useful, when you are going to add stochastic indicator?? Please update why Grow not updating their chart with Stochastic Indicator I am chasing from last one year but still not taking any updates please do as soon as possible it's very good Indicator",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "Extremely beginner friendly, helpful staff and amazing niche tracking options. Will always recommend this to start investing journey",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "not proper work on short curt exit time",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "Segment activation failed though at time of opening it was showing OK",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "this is best app and enjoying with app,useful app",
+        "text": "dish app is nishe and ",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "The only stocks app I use.",
+        "text": "one of the best trading terminal for beginers and investor, simple interface,mainly one tap trading was super, 915 terminal was super for scalpers",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "very good App for trading....",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "One Word is Enough Amazing ",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "worst app I suffered losses rs 4000 because of Auto exit if auto exit is not exist then I earn more than 5000 rs that day this is not a first time and The stock you are looking at to trade is not available for trade. I recommend to use another broker apk",
+        "text": "selling lowest price nd buying higher price",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-11"
       },
       {
-        "text": "previous scalper mode was best... current one is not good",
+        "text": "brokege charge will be high can you reduce all charges",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "Good but is it secure?",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "broker charge bahut jayada ho gya ha ab groww app ko delete kar ka dusra treading app use karna hoga",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-10"
       },
       {
-        "text": "Very snappy UX. One major issue is for some stocks it selects MTF by default instead of Delivery. Major flaw and should be fixed ASAP Another issue is the portfolio view resets to default if the app is minimised for a few seconds.",
+        "text": "best trading app for beginners",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "window should be there to suggest to buy stocks for next day which can be good to trade",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "Easy Interface and Fast access to all the services",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "after the update as of today app is slow and getting stuck",
         "rating": 3.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-10"
       },
       {
-        "text": "Very Good User Friendly Appliance. Enjoy Investing.",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "Very Bad App, I tried 1 Month to earn money but I will lose everytume",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "worst update, previous version was best",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "grow was a best platform in Indian market and minimum brokerage aap",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "grow is the worst app I ever used.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "Grow should be renamed as Glitch!",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "scalping mide not proper working. clear the error. last 3-4days facing problem. please resolve this issue asap.",
+        "text": "Sir aap ka brokerage charges jayada hai kam karo unlimited one day charges kya hai lagavo or kuchha new karo charges ke liye thanks for teams groww...",
         "rating": 4.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-10"
       },
       {
-        "text": "login nahi ho raha hai...paisa soch samajh kar invest kare...sawdhan rahe.",
+        "text": "overall experience is great, the only iasue os hogh brokerage, 10 rupee brokerage per trade will be good",
+        "rating": 4.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "User friendly interface. Very easy to use..",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "good for the beginners who want to start trading",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "Technical error ki bajah se 30000 ka loss hua lekin inka kehna h ye refundable nahi h",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-10"
       },
       {
-        "text": "This is best ever trading n investing platform very easy to use n understand.with very easy UI.Fully Satisfied.",
+        "text": "good smuth and easy app",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-10"
       },
       {
-        "text": "grow is very easier than others apps",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "very naic aap so betifulapp",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "nice app but brokerage charger jasti hai",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "clean and easy to use interference",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "pls check the stock prices not showing accurately in the apps. chart highs and lows are being shown incorrectly in high and low section.",
+        "text": "Please use 1 lot as the default value. Currently, I noticed that if I buy 3 lots, then the next time I buy any Nifty option, it sets the lot size to 3 lots. Suggestions - A) Setting up multiple SL & TGT on the same trade is very non-intuitive. Hope the developer is simplifying it. B) Why can't we have a drag SL and TGT option when trading intraday stocks, like in NIFTY option trading?",
         "rating": 3.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-10"
       },
       {
-        "text": "curated very well for its intended use.",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "excellent app to be used",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "whenever want to book profit Always took 2 minutes to execute the order and had to book almost half of the profit",
+        "text": "charges are very high and all grow investors are in loss",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-10"
       },
       {
-        "text": "Nice application , easy to operate",
+        "text": "Very disappointing experience. After using the external fund import feature, I started receiving unwanted OTPs, spam calls, and promotional messages. I tested this on two separate devices and faced the same issue both times. I do not have proof that these events are directly connected to the app, but the coincidence is difficult to ignore. For a platform that handles sensitive financial information, this creates serious concerns about privacy, security, and transparency. very disappointed ",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "this is very best for all stock market investors and beginners but one option must be available in this app to avoid losses. \"Auto Trial Stop Loss\" option must be available in this app. then it will be the best app for all users. Thanks & Regards R. Prajapati (Groww User and SM investors)",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-10"
       },
       {
-        "text": "very nice plateform in limited charges",
+        "text": "very good app easy to use and good ",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-10"
       },
       {
-        "text": "Trying to switch my MF SIP investment from an ELSS fund to another fund from the same MF house. It is saying unable to switch since ELSS investments need to cover 3 yrs. I am trying for that amount which are already 3 years old still giving the same problem. In gist: unable to switch mf fund which is more than 3 years old.",
+        "text": "very nice and best aap",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "Good App for Groww I lovely for you my use best fast app ",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "Ek Num ka Ganda Aplication Hai Koi Download mat Karo Bohat Brokerage Leta . Sabse Ghatiya App hai",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "Overall Groww had always been my best and I am sure no other platform can do it. BUT plz 1. Sometime after the App is been used constantly navigating back and forth i feel a lag. 2. Even time in punch in order on the same day I get call from 3rd party brokers asking me to take up the service, this is not random, exactly the day I punch in orders I start getting marketing calls from other platforms and unregistered 3rd party brokers. please check if my data is passed on without authorisation.",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "bad app vary loss money",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "My experience as a investor is very nice. easy to use. I am happy ",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "brokerage are very high don't use this app",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "use less coding, i order intraday sere order ond inoxindia for 1925 it auto exites while reaching 1941 now it went to 1919 they destroyed my 2Lakh, now if i left same thing i will get 1Lakh profit, ignore this platform,",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "I have been using Groww since February 2022, and my investment journey began on this platform. I also opened my first Demat Account through Groww. The app has a very simple, clean, and user-friendly interface, which makes it easy for new investors to start investing. My experience investing in stocks, mutual funds, and IPOs has been excellent. Even today, Groww remains one of my favorite investment apps. I would definitely recommend it to anyone who is new to investing. ",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "bahut ghatiya aapp h hang marta h koi bhi download mt karna bakawas app",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "good  and helpful  i can't tell any disadvantage about this app because i am beginner in this app",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-10"
+      },
+      {
+        "text": "dont use groww yor money day by day decline your money",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-09"
+      },
+      {
+        "text": "very bad experience 1 year's no use this",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-09"
+      },
+      {
+        "text": "Super under standing very easy to identity and analysis",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-09"
+      },
+      {
+        "text": "having a very good experience with Groww.I am Growing..",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-09"
+      },
+      {
+        "text": "it's taking high charges on option trading",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-09"
+      },
+      {
+        "text": "easy to use and simple UI",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-09"
+      },
+      {
+        "text": "It's all good, but there are a few features missing here, you need to add them. It would be better if you add futures for chat analysis. There is a problem with this, the index chat does not show volume.",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-09"
+      },
+      {
+        "text": "make the interface attractive by changing colour, bored by green interface, upgrade the interface",
         "rating": 4.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-09"
       },
       {
-        "text": "very useful app in student",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "it is very easy app to manage all mutual fund. very user friendly.",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "it's doesn't even deserve a single star",
+        "text": "why do you need 20 rupees of brokerage in intraday? even 5 rupees will be enough for your profits, you are greedy, how will we do intraday when your brokerage is even higher than what we can earn by intraday, make 5 rupees, and max full deduct for 1 intraday shall be somewhere from 10-15 rupees and not 100 rupees, then we can do intraday fearlessly which will also increase your profits",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-09"
       },
       {
-        "text": "Not recommended as high charges have been levied there.",
+        "text": "very Poor Experience,All chart  are hanging during market",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-09"
       },
       {
-        "text": "fantastic groww trading and demand account india s top broker.",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "useless app,slow and making fool the investers",
+        "text": "Grow app sahi nahi hai customer support 24×7 likha hai maine 12 baje night me call kr raha tha ye log 20 minutes baad jakar call pickup kiya and charges ke mamale me bhi ye app sahi nahi hai",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-09"
       },
       {
-        "text": "indicator thode Kam Hai Baki badhiya app hai",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "our good experience with grow the financial investment I use this platform for improving money and this is the best tool to easy to use and comfortable to understand charge candlestick patterns",
+        "text": "I really like the services of groww,, very useful ,, aap G-sec bond and schemes kab launch kar rahe ho,, I'm waiting",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-09"
       },
       {
-        "text": "3 years ago i used grow and now I'm using grow I feels like two diffrent apps now perfect",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "best app for beginners traders",
+        "text": "BAD EXPERIENCE. DURING MCX TRADING ON 09 Jun 26 , MY OPTION BUY ORDER GOT STUCK AND NOT ABLE TO CANCEL OR MODIFY. TRIED CALLING SO MANY TIMES AT ABOUT 2300 HRS MY CALL NOT ATTENDED BY ANY AGENT FOR MORE THAN HALF AN HOUR. DON'T CLAIM AS 24X7 CUSTOMER SUPPORT.",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-09"
       },
       {
-        "text": "very excellent but your Recommendation by analysis sectors share wise weekly, monthly, yearly will make your Demat account holders will be benefited",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "It is good for investment money to provide a high interest rate for your money",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "After update app not user friendly iam facing reliably issue",
+        "text": "don't use groww i wonder who is giving 4.8 rating",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-09"
       },
       {
-        "text": "don't trust this app it's a pure fraud app....",
+        "text": "very poor service today in terms of help of customer care",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-09"
       },
       {
-        "text": "Yes, all the brokerage companies charge brokerage charges towards us but GROWW is paisa vasool for that broking charges.It is easily accessible and anyone can understand the basics in this efficiently and fast.Love this App",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "why one click scalping isn't available in Commodities market in the app ???? ",
+        "text": "bad........ koi bhi install mat krna is app ko... time k waqt... issue aa jata hai is me",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-09"
       },
       {
-        "text": "good app I love it",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "thanku groww sabse acha app groww he mene 3 year se uj karrahahu svhi trading apps se achahe",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "Groww is an unquestionably the best app , but recently facing an issue with delay in watchlist update .",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "After the latest update, the app isn't working properly. Today's high and today's low prices are showing incorrect data. Please fix this bug ASAP as it affects trading decisions...",
-        "rating": 2.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "don't prefer this trading app. chart is slow,takes too much time to open the chart.",
+        "text": "The worst app I have ever seen in my whole life The cheater sala bought it but when I sell the app glitch and also customer care support not attending any calls or response",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-03"
+        "date": "2026-06-09"
       },
       {
-        "text": "i am starting today.... so far so good",
-        "rating": 4.0,
+        "text": "Didn't know anything about the stock market or trading when i installed this 2 years back. Very clean and beginner friendly interface, which led me to start investing small amounts in mutual funds and stocks without even knowing how it works. Overall nice experience and no commission or whatever has taken from me till now. Edit: please reduce the brokerage to 15₹",
+        "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-03"
+        "date": "2026-06-09"
       },
       {
-        "text": "grow app is not good app keuki esma target apni marzi sa hit hota haa joo target hmm rkhta haa osa hit nhi krta oska nicha hei hit kar dita haa or sl vii kai var hit nhi krta sl price ka upper jkar kudh hei exit krna pdta haa or esma server problem ki vja sa entry mis hoo jati haa rating 0",
+        "text": "In commodity Trade its not exit very worst service.",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-03"
+        "date": "2026-06-09"
       },
       {
-        "text": "font size is too small can I increase font size in groww app?",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "overall good. easily handling and affordable to use",
+        "text": "very good and perfect quality aap",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "I have a very poor experience. Customer Support is pathetic. Experiencing technical glitches but no reliable support. The support team gives generic replies which is quite frustrating.",
-        "rating": 2.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "good to compare funds and Market",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "due to glitch I lost 1000",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "it's not fast in F&O.. my suggestion kite will be better even intraday also they will close the price automatically below upper circute limit.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "don't trust read all their conditions",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "it's laggy and showing inaccurate data...",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "it is very convenience. It is such an easy app.",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "This app show current high price not showing maximum today high.old version is better than new",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "please try to allow commodities orders in pre market",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "please try to add allow commodities orders in pre Market. its helpfull lot",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "Best application for treding and options treading fast n accurate",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "i really impressed, because it's to easy to use, For Beginner it's too Good !",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "Keeps sending stupid notifications constantly showing stocks in portfolio down or up by 2%, sometimes when they are not. Need to keep notifications on for the stock alerts I have put. Will edit the rating once this is resolved. Otherwise everything in the app is great.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "system ko aur easy banaen",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "Please rollback to the previous stable version of the app immediately. The latest update has a critical bug where refreshing live data causes the app to crash completely. This issue is preventing me from execution and putting in my trades.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "nice to markat my life and",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "good application and easy to track the stock and able to predict the share. if you guys integrate the AI would be a best",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "exit karte vakt gilch ho raha update kro app ko",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "Please add a toggle to hide F&O and Loan tabs. I am strictly a long-term stock/MF investor, but your cluttered UI caused me to accidentally activate the high-risk F&O segment via a misclick. Investors need the autonomy to customize their dashboard based on their investing style. Letting us hide unused tabs would clean up the visual space and prevent expensive accidental errors. Please prioritize this UI/UX fix!",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "So many lags and errors in showing real-time trades info of sellers and buyers. Can't trade properly due to improper content.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "It offers a highly simplified, intuitive interface built primarily for mobile-first users and beginners.",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "don't create the account on groww as it's very bad service provided and high charged apply",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "I will give it a 5 Star but I am not satisfied because of this i got this message from the groww app help team ( Currently, you cannot directly edit an existing SIP to change the amount. To increase your SIP amount from ₹300 to ₹600, you will need to cancel your current SIP and then create a new one with the desired amount of ₹600.) For a small request to the Groww team , if there is any chance on the next update.. Set edit option an existing SIP to change the amount increase or decrease option",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "groww app is the best trading app",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "jb koi bda movement ane wala ho jb profit le skte he tb inke indicator kam krna bnd kr dete he 7 din me 2 bar problem bni he last wale update bd scalper mod me index change ka option hi change kr diya tha",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "touching the app after four years",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "Nowadays, updating portfolios is taking significantly longer than before, which is necessitating the use of other applications.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "one of the good investments app",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "apps is very slow and add it new software for stocks check and sip check",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "Very good groww broking app",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "After the latest update there are a lot of problems exiting the a trade fast it's getting hung every time",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "facing problem while opening the nifty sensex chart when I click on the amount exit option continuously keeps on shivering and by which I always exited at wrong move. kindly do something on it.",
-        "rating": 3.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "don't use it if you want your money to be safe..this app lags too much ,they charge High but app and it's customer support is pathetic..this app is not for traders you will lose your money if right time entry and exit will not work with app function... I am using both the mode webpage and mobile application",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "Very useful UI for training ",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "some times when option scalper start and take orders then profit ya loss panel stuck please modify that .",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "too much hanging problem during the trade.its really pathetic. i have lost many time thousands of rupees",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "worst trading application. too much latency issues.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "Boot App 0% Best Customer Support Service",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "Really great app to use . Ui is very simple and easy to handle as compared to others",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "!!!!! SUSPICIOUS ACTIVITY !!!!! Something is off with this app. It happened multiple times that a position in loss was exited instead of the one in profit. Like, how is it possible when I open position A to exit, how can you exit from B or C ? Cheap way of getting more cut out of a trade.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-02"
-      },
-      {
-        "text": "YES, I CAN LEARN SOME BASIC TIPS AND TRICK",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-02"
-      },
-      {
-        "text": "Hi team, recently you updated one feature right that's called F&O symbol and scalper options . see when I clicked position then screen is highlighted and moving rapidly and position does not close quickly. please resolve this issue as soon as possible",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-02"
-      },
-      {
-        "text": "best app for new traders",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-02"
-      },
-      {
-        "text": "trusted & easy to use",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-02"
-      },
-      {
-        "text": "groww babu ek dikkat hai aap se jai se ki mere pass mtf me merae pass koi company ka 50 share hai usme se ager 10pis delivery mein dhakelna chahte hai to nahi hota hai usko aap thik karo",
-        "rating": 3.0,
-        "source": "play_store",
-        "date": "2026-06-02"
-      },
-      {
-        "text": "I have no only trust",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-02"
-      },
-      {
-        "text": "This app is only for beginners I mean only beginners use this aap but please stop using this aap in your starting journey at a time you will become habituated and then you will find this is worst aap you will not get proper info about your trade. you can't control your overtrading there is no kill switch at June 2026 very pathetic... I STRONGLY SUGGEST NOT TO USE THIS AAP...IF ANYBODY DNT WANT TO RUIN YOUR TRADING JOURNEY...",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-02"
-      },
-      {
-        "text": "good platform aplication groww mein isko 5 star deta Hun",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-02"
+        "date": "2026-06-09"
       }
     ]
   },
   "kyc": {
     "theme_id": "kyc",
     "theme_name": "KYC",
-    "count": 3,
-    "avg_rating": 2.33,
+    "count": 1,
+    "avg_rating": 2.0,
     "sentiment": "negative",
     "reviews": [
       {
-        "text": "is groww app me KYC karna bada hi aasan h or is app me company se baat aasani se ho jati h",
-        "rating": 5.0,
+        "text": "It is a challenge to open HUF account with them. it has so many issues. have been trying since weeks.",
+        "rating": 2.0,
         "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "Scammer fraudsters Beawar of this company if you open your account with them for investment and provide then your Pan and Aadhar details they use to make uncertain changes into your Pan and Aadhar details without your acknowledgement and since then I am getting unwanted calls and messages regarding investment because they sold my Data to other companies. I am going for a lawsuit against this company ",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "I have came to the understanding that you leak a lot of important information about your coustomer to third party softwares... I have personal data on this, I hope this type of behavior from your company is illegal in India.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
+        "date": "2026-06-09"
       }
     ]
   },
   "payments": {
     "theme_id": "payments",
     "theme_name": "Payments",
-    "count": 19,
-    "avg_rating": 2.21,
+    "count": 15,
+    "avg_rating": 2.33,
     "sentiment": "negative",
     "reviews": [
       {
-        "text": "please add qr scanner in home page and update you upi interface",
-        "rating": 3.0,
+        "text": "Lot size issue It is difficult to calculate the lot size in scalping to place an order as per risk reward ratio, it takes time and price moves away and can't place order. kindly fix it multiple times of lot size",
+        "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-07"
+        "date": "2026-06-14"
       },
       {
-        "text": "this app use UPI Payment also",
+        "text": "platform truly made for self profit not for their user, that's why they are not introducing \"KILL SWITCH\" like other platform to help trader to keep their earning safe. If they are introducing kill switch then their earning from brokarage become null..GOOD GROWW TEAM",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "very worst app again again asking money and negetive amount adding, there is no cancellation option for our investments very bad I'm very disappointed",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "user inter face amazing new user's learn quickly this market but after Realize charges too much high and user shift another platforms im also shift ",
+        "rating": 2.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "I can see lots of slippage since the recent update... very slow with the order execution....now I have decided to move some other platform...earlier this used to be a good platform",
+        "rating": 2.0,
+        "source": "play_store",
+        "date": "2026-06-13"
+      },
+      {
+        "text": "Worst app for trading. You set the sell target at 100 with profit and it will automatically execute it at 95 and bear loss. you will set buy at 100 and it will automatically trigger at 105 again bear loss. Next if u set the buy at the limit then it will never execute your order and wait till dead.",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": " Groww is primarily a loan shark disguised as an investing platform. They will aggressively target people to take loans based on their trading patterns and won't stop until you take a loan. Beware!",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "the app is good but charges are very high. ",
+        "rating": 2.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "only monthly sip deduct by Autopay. don't deduct unfortunately money.",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "compared to other apps to much expensive brokerage charged.. be alert and note. even we take one lot also taken high brokerage charges..be safe all. if you earn 1000 grow app share 400. finally you traded for grow app not for you .",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-12"
+      },
+      {
+        "text": "better app but charges is High",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "worst experience in app very high brokerage charges I lost too much amount through brokerage charges. don't use this app",
+        "rating": 1.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "fees should reduce and instance payment options are always available",
+        "rating": 5.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "grrow app Add money problem",
+        "rating": 3.0,
+        "source": "play_store",
+        "date": "2026-06-11"
+      },
+      {
+        "text": "good for intraday trading and add amount 5000 rupee do not add 100 rupees",
         "rating": 4.0,
         "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "I am very happy to trade on Thursday and the payment is credited immediately thank you!",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "I trade through MTF, and wallet balance showing anything in any time. Even if market closed balance not showing correct amount, it decreased",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "Worst experience. It was much better. I'm unable to setup autopay for SIP. It asks once, if you miss it, only God knows where to find it.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "easy to explore but charges are so high",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "Not recommended in future and option, they executed your order higher amount than actual order. they charge alot in name of fees and other taxes Its really disappointed app. not recommended for options.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "I have been investing in mutual funds for the last year. A few months ago, I took a loan against my mutual fund through Groww. I borrowed 10k and repaid it within a week, but they charged more than 1.1k. They did not provide any proper document or report explaining the charges. When I tried calling their helpline, there was no response. They even charge fees for updating personal details. I'm not sure what other charges they may apply in the future.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "when you buy the stocks in groww it buys at high even though the price is not moved that much and when you sell the stocks the same experience I have experience from past 2 months and this is completely manipulating the entry and exit price",
-        "rating": 2.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "I will not get upi mendate every time why this happened?",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "i sell my stock at 45 and you guys are taking 24 + tax for external charges.. its compeletely wrong",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "From past few days unable to add fund, whenever try it comes verifying your device",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "bhai itna brokerage Kaun leta hai 1 din mein 2223 ka brokerage Le lete ho aam aadami aapke sath nahin jud Sakta...",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "Earlier there was only brokerage on selling now its on both, also everytime you purchase the share on same day of same company you need to pay brokerage. I am still invested but not happy with this initiative of Groww. It's been last two years I am using. Definetly it's easy to use, almost all features are there what you can expect.",
-        "rating": 3.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "Charges unnecessary hidden charges. Does not offer free online Closure and transfer service. Should not be downloaded. Worst app for trading. Does not care about customers.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "grow is not brocker its a eating butter from a dead man's scalp(money as brockrage ).",
-        "rating": 2.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "plz reduce brokrage charge from 20 to 10 rupees in intra day",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-02"
-      },
-      {
-        "text": "02/26 Charged high brokarege & external charges also CDSL DP charges & charged Brokers dp charges on each trade trasanction daily. 23/01//2024: App is not working properly, unable login through app or through website, suddenly in between working session any time it is off, no contact number, customer care not working,unable to contact any way to groww these are very worst case & very bad services. Repeatedly non satisfied time consuming, High,took double charges mtf, pledge/unpledge Services..",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-02"
-      },
-      {
-        "text": "only for investment ok.. not trading, more charge groww app",
-        "rating": 3.0,
-        "source": "play_store",
-        "date": "2026-06-02"
+        "date": "2026-06-10"
       }
     ]
   },
   "statements": {
     "theme_id": "statements",
     "theme_name": "Statements",
-    "count": 11,
-    "avg_rating": 2.91,
-    "sentiment": "negative",
+    "count": 2,
+    "avg_rating": 5.0,
+    "sentiment": "positive",
     "reviews": [
       {
-        "text": "For high brokerages and changing my Mutual funds to Demat without my consent.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-07"
-      },
-      {
-        "text": "App is super to trade and invest. But regret to inform that neither there is clarity in statement of account of Funds nor the call centre guys are trained to handle with customers. Further it is like the call centre guys are sitting in some noisy place, lot of disturbance when on call Right now i am on call at this time MTF interest charged as follows 31.3.26 - 772.88 30.3.26 - 774.8 29.3.26 - 774.8 where as the statement is showing only 113853.04 balance. Why so much charged",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "groww me cmr ipo total subscription 28 times showing , but this is wrong or may be fraud",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-06"
-      },
-      {
-        "text": "They have mandated Mutual fund investment in demat mode and not earlier SOA mode. So, keeping inline with Zerodha. When will they enable US stocks investing using UCITS to avoid inheritance tax above $60,000.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "I have used Groww for almost 4 years and traded F&O for 3 years. My concern is that the live P&L often seems delayed when a trade moves in my favor, while losses appear immediately. I have also faced repeated issues withdrawing funds when trying to stop trading, with messages saying my bank was not accepting the transaction. Customer support did not satisfactorily address my concerns. This review reflects my personal experience and has reduced my confidence in the platform.",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-05"
-      },
-      {
-        "text": "sab kuch hai par tax bahut lagta hai",
+        "text": "In the latest version 1 year chart has many noise . Previous version has 1 year chart smoother than this one . Please update this 1 year chart cause this has many noise",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-13"
       },
       {
-        "text": "please include SIF along with all mutual fund",
+        "text": "Where can I download my portfolio details via pdf ..?",
         "rating": 5.0,
         "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "Very easy to use for investment in individual stocks and Mutual funds. But you will not get detailed info...",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "Now last updation is satisfied because transaction history is clear and correct amount shown in F&O",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "It would have been better if the app had an option to view your NPS portfolio as well.",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "total holding Qty investment Amount Current Amount Total Gain/Loss (Amount + %) Today Gain/loss (Amount + %) Should Visible In Hohlding .",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-02"
+        "date": "2026-06-10"
       }
     ]
   },
   "withdrawals": {
     "theme_id": "withdrawals",
     "theme_name": "Withdrawals",
-    "count": 10,
-    "avg_rating": 2.5,
+    "count": 5,
+    "avg_rating": 1.4,
     "sentiment": "negative",
     "reviews": [
       {
-        "text": "nice app but withdraw is very slow",
-        "rating": 5.0,
+        "text": "why can't you let us withdraw money from wallet on same day like at least till 2 lacs like how zerodha offering. what are you doing with the money in our wallet's.",
+        "rating": 3.0,
         "source": "play_store",
-        "date": "2026-06-06"
+        "date": "2026-06-13"
       },
       {
-        "text": "Very bad brocker not refer to grow app ....it's not you life grow up its always grow down me apply ipo this app no one IPO not allocated brocker not manage IPO currectly ....bettter you joice unother brocker and app will hewy gilch problem",
+        "text": "In don't know why it is india no: 1 Broker Always Withdraw Late it's take more over 24 Hours , Better To switch Other Broker Worst Experience Since 3years",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-13"
       },
       {
-        "text": "waste of time in waste of money withdrawal is always fail app withdrawal not accepted only deposit accepted customer support also not work properly customer support waiting time is more than 10 minutes sometime more also don't use this app this is waste of time and waste of money",
+        "text": "I started sip and then cancel it with profit of 9 percent . I also applied for refund . but no refund occur even after a week . where should I go",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-05"
+        "date": "2026-06-11"
       },
       {
-        "text": "withdraw money cheater don't believe this app please please please ",
+        "text": "This is not a good app for treading and investment in mutual funds. When I will redeem my amount in this app show a different amount and the amount credited in account is a loose making a different amount. when I call with the customer care service the agent tells you Show the amount on app it was a previous day amount and this is the real amount who will credit in your account. So, You will show in this application everything is false details.",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
+        "date": "2026-06-10"
       },
       {
-        "text": "I can't sell my share to time in America eran war.... this apps deley my share I shifted my account to sbi bank",
+        "text": "owner pls shut down the app, why we can't even withdraw our money from app disgusting, if there is any negative no. take -100000 from me",
         "rating": 1.0,
         "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "some time instantly withdraw disabled, some time position not showing... this is some disadvantages... overall good app",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-04"
-      },
-      {
-        "text": "this is the most worst app in the world for trading.I am withdrawing my money from morning I have tried atleast 10 to 15 times and I have not received my money.I suggested this app is worst trading platform in the world. I have made a very big mistake that I have used this app. They have blocked my account without any reason. I have done my kyc again and again near about 10 to 12 time and my account is blocked yet I request you to don't use this app",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "This my first experience in options trading, i am doing better in options trading but I can't book my profit otherwise the app is outstanding, mind-blowing",
-        "rating": 5.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "Can you please release an option where I can order a reedem call on Mutual fund on a specific NAV.",
-        "rating": 4.0,
-        "source": "play_store",
-        "date": "2026-06-03"
-      },
-      {
-        "text": "is app ka withdrawal aur stock sell thik nhi h",
-        "rating": 1.0,
-        "source": "play_store",
-        "date": "2026-06-02"
+        "date": "2026-06-10"
       }
     ]
   }
