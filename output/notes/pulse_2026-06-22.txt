@@ -1,0 +1,28 @@
+GROWW WEEKLY PULSE — WEEK OF 22 JUN 2026
+2026-03-30 to 2026-06-22 | 202 reviews analysed
+------------------------------------------------------------
+
+TOP THEMES
+
+  1. Onboarding — 159 reviews, avg 4.18/5 [+]
+  2. Payments — 25 reviews, avg 2.36/5 [-]
+  3. Statements — 8 reviews, avg 2.38/5 [-]
+
+USER VOICES
+
+  "The grow chart pattern is very slow if you are executing any trade then the premium chart is very slow and does not show in real time and lag problem,and you will lose the money"
+  Rating: 4.18/5
+
+  "Request note- better change in charges- for small investors- just like monthly charges- or collect charges while buying only- dont collect charges on selling- if not collect charges on profits"
+  Rating: 2.36/5
+
+  "SEBI says 90% FnO Retail trader Groww money using GROWW APP Avarage groww money 2-3 lacs per retail trader. THATS WAS VERY NICE"
+  Rating: 2.38/5
+
+RECOMMENDED ACTIONS
+
+  1. Fix payment charges for small investors.
+  2. Improve statement generation for FnO traders.
+  3. Optimize premium chart loading speed.
+
+------------------------------------------------------------
