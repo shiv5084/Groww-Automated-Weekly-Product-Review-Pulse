@@ -1,0 +1,28 @@
+GROWW WEEKLY PULSE — WEEK OF 06 JUL 2026
+2026-04-13 to 2026-07-06 | 167 reviews analysed
+------------------------------------------------------------
+
+TOP THEMES
+
+  1. Onboarding — 129 reviews, avg 4.32/5 [+]
+  2. Payments — 23 reviews, avg 2.04/5 [-]
+  3. Statements — 9 reviews, avg 3.56/5 [~]
+
+USER VOICES
+
+  "I have been using grow since 5 years now and I have recommended this to many of my family members. The main reason is the clean app experience that even olders in the family can use"
+  Rating: 4.32/5
+
+  "one of the worst app in stock market the charts are worst ... the charges are like crazy i think zerodha is better app ... please improve the charts aor else half of the invester will leave the app"
+  Rating: 2.04/5
+
+  "Very bad update i am unable to see how much interest I have paid in mtf positions. Before the update I can see how much interest I have paid under positions section. very bad update ."
+  Rating: 3.56/5
+
+RECOMMENDED ACTIONS
+
+  1. Fix payment charges issue.
+  2. Resolve chart display problems.
+  3. Restore interest view in MTF positions.
+
+------------------------------------------------------------
